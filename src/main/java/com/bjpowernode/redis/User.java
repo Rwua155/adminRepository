@@ -7,5 +7,6 @@ public class User {
     public static void main(String[] args) {
         System.out.println("HELLO WORD!");
         System.out.println("css");
+        System.out.println("添加");
     }
 }
