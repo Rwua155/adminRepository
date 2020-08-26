@@ -34,7 +34,7 @@ public class JedisDemo {
 
         List<String> name = jedis.lrange("name", 0, -1);
         System.out.println(name);
-
+        System.out.println(name);
 
 //        Jedis jedis = JedisDemo.getJedis(host, port);
 //        //jedis.flushDB();
